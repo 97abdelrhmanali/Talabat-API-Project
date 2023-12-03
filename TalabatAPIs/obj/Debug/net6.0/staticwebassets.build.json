@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "6Y5mX1MpfNu02K7SncavNj+UtCjZ+/0tv+qyrrg3sB0=",
+  "Source": "TalabatAPIs",
+  "BasePath": "_content/TalabatAPIs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TalabatAPIs\\wwwroot",
+      "Source": "TalabatAPIs",
+      "ContentRoot": "E:\\route course\\.net\\API\\Talabat.G03.Solutions\\TalabatAPIs\\wwwroot\\",
+      "BasePath": "_content/TalabatAPIs",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\route course\\.net\\API\\Talabat.G03.Solutions\\TalabatAPIs\\wwwroot\\images\\products\\sb-ang1.png",
+      "SourceId": "TalabatAPIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\route course\\.net\\API\\Talabat.G03.Solutions\\TalabatAPIs\\wwwroot\\",
+      "BasePath": "_content/TalabatAPIs",
+      "RelativePath": "images/products/sb-ang1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+    }
+  ]
+}
